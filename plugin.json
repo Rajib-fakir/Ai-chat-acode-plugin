@@ -1,0 +1,18 @@
+{
+  "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
+  "id": "acode.plugin",
+  "name": "Ai Chat",
+  "main": "main.js",
+  "version": "1.0.0",
+  "repository": "https://github.com/Rajib-fakir/Ai-chat-acode-plugin.git",
+  "icon": "icon.png",
+  "minVersionCode": 290,
+  "license": "MIT",
+  "keywords": ["ai","chat","gimini"],
+  "price": 0,
+  "author": {
+    "name": "Rajib Fakir",
+    "email": "rajib01943075658@gmail.com",
+    "github": "https://github.com/Rajib-fakir/Ai-chat-acode-plugin.git"
+  }
+}
