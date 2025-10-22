@@ -26,4 +26,4 @@ Acode Chat Plugin হলো একটি সহজ এবং ইন্টিগ�
 1. **প্লাগইন কোড ডাউনলোড করুন:**
 
    ```bash
-   git clone <>
+   git clone <https://github.com/Rajib-fakir/Ai-chat-acode-plugin.git>
